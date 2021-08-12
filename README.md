@@ -1,4 +1,4 @@
-#   Advanced Lottery Solidity Smart Contract
+#   Solidity Lottery Application
 
 This is an advanced lottery smart contract explaining some of the very useful CRUD operations required to create an application using solidity on Ethereum.
 
@@ -20,7 +20,7 @@ This is an advanced lottery smart contract explaining some of the very useful CR
 ### Clone the repo
 
 ``` sh
-$ git clone git@github.com:ashisherc/advanced-solidity-lottery-application.git
+$ git clone git@github.com:bluesky-coder/solidity-lottery-application.git
 ```
 
 Refer README inside ethereum and vuejs-frontend folder to run the application.
